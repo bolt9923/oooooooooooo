@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "𝐆𝐄𝐓 𝐀𝐏𝐈 𝐈𝐃 𝐅𝐑𝐎𝐌 https://my.telegram.org",
-        "value": "26691902",
+        "value": "27876933",
         "required": true
       },
       "API_HASH": {
         "description": "𝐆𝐄𝐓 𝐀𝐏𝐈 𝐇𝐀𝐒𝐇 𝐅𝐑𝐎𝐌 https://my.telegram.org",
-        "value": "be9744acfca84ae606d0da13b1b8e129",
+        "value": "c064dc94e5b0f96dbafaa2c880671f6e",
         "required": true
       },
       "BOT_TOKEN": {
@@ -38,7 +38,7 @@
         "required": true
       },
       "STRING_SESSION": {
-        "description": "BQFNtIsAEVSX4VYtHOQHhGPD1g-IiCe-SxXXSOXd-Csq8uw3y7QIW8fJUApAYWDashUadLtzW-B4RnQ2cv5YFnqazoL-TMtH2cIkDaDkyZtIXpcsMNGQXDSQpzz6HdjV5Uouqo4gmexu5mIpYlxi54SlbhvLmfEsibJYqHgZtYs_-Ef19g-GSKNLvGCq4GGYSB-1mQjSeOK9ng_maNFfuESvnPhLDSBjQ7o4VRzVzdvXK299HEVdygkuFrMeu3GKBPBgKyDmgDS9o39SbSQ4ezB1qCmnxtwe17_syTZYW3pQg1bGwwnmSreW1p-qHt0-lAX03Gqnpa1yjONNhh8h1Ykq0oVZxgAAAAB9uURdAA ",
+        "description": "BQGpXkUAXn1CFZ2JZpo3XAbKHHnUtLMYOIKpw67AoB2Fa9XK4-wG0YgXjw5Bf0PKBbCS317cTdx3GBlvOUQeDrIad9MW9BSP8B4bXeqe4tomJiMeqUPx8ztfdWgqT7rIat12FwKLB3_8hIQxUgerIS2_Xi4SJokVhOlfECDnC7eef0_AmEdeUxSeOVDdCc5LB0DTW6xHEAjIJqdsKDfwa_d0HqYwLn8qVA5YHvAbu1P7h2ZTugQzXsYKLsyYAk7VpGuqjjHuUsaKuPrYjn9VFnxb_phZykOuiTIsDtaR2cU2BWD_z2gHeWi8I1HjeN_Z9v4vLwUSNDMJM90yg-Vkby34bblhZQAAAAHVslqIAA ",
         "value": "",
         "required": true
       },
@@ -59,7 +59,7 @@
       },
       "LOGGER_ID": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐋𝐎𝐆 𝐆𝐑𝐎𝐔𝐏 𝐈𝐃 𝐖𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐁𝐎𝐓 𝐀𝐋𝐖𝐀𝐘𝐒 𝐒𝐓𝐀𝐘 𝐀𝐃𝐌𝐈𝐍 (𝐈𝐃 𝐌𝐔𝐒𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 𝐖𝐈𝐓𝐇 -100).",
-        "value": "-1002448166974",
+        "value": "-1002264842420",
         "required": true
       }
     },
