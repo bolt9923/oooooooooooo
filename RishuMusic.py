@@ -85,7 +85,7 @@ STRING_SESSION = getenv("STRING_SESSION", None)
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority")
 OWNER_ID = int(getenv("OWNER_ID", "5738579437"))
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID","-1001992970818"))
-START_IMAGE_URL = getenv("START_IMAGE_URL","https://envs.sh/oKU.jpg")
+START_IMAGE_URL = getenv("START_IMAGE_URL","https://envs.sh/SHM.jpg")
 
 
 # Memory Database
@@ -388,7 +388,7 @@ async def start_message_private(client, message):
 » ✦ ʙєsᴛ ғєᴧᴛυꝛє ʙσᴛ ση ᴛєʟєɢꝛᴧϻ 
 » ✦ ᴧᴅᴅ ϻє ɢꝛσυᴘ ᴛσ sєє ϻʏ ᴘσᴡєʀ
 •──────────────────────•
-❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ  :-  [ʀɪsʜυ ʙσᴛ ](t.me/ur_rishu_143)❤️‍🔥
+❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ  :-  [ʀɪsʜυ ʙσᴛ ](t.me/Shinu653)❤️‍🔥
 •──────────────────────•**"""
 
         buttons = InlineKeyboardMarkup(
@@ -416,7 +416,7 @@ async def start_message_private(client, message):
                     ),
                     InlineKeyboardButton(
                         text="˹ ʀᴇᴘᴏ ˼",
-                        url="https://github.com/rishubot",
+                        url="https://t.me/shinu63635",
                     ),
                 ]
             ]
@@ -444,11 +444,11 @@ async def start_message_private(client, message):
 CBUTTON = InlineKeyboardMarkup(
     inline_keyboard=[
         [
-            InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/ur_support07")
+            InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/huntermafiya")
         ],
         [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/Ur_rishu_143"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/Vip_robotz/4")
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/shinu63635"),
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/shinu63635")
         ],
         [
             InlineKeyboardButton("↺ ʙᴧᴄᴋ ↻", callback_data="back_to_home")
@@ -469,7 +469,7 @@ ABUTTON = InlineKeyboardMarkup(
 HELP_C = """```
 ⌬ ๏ ʟᴇᴛ's ɪɴᴛʀᴏᴅᴜᴄᴇ ᴍᴜsɪᴄ ʙᴏᴛ```
 
-**⌬ [【 ʀɪsʜυ-ϻυsɪᴄ 】](https://t.me/Ur_rishu_143) ɪs ᴏɴᴇ ᴏғ ᴛʜᴇ ʙᴇsᴛ ᴍᴜsɪᴄ | ᴠɪᴅᴇᴏ sᴛꝛᴇᴀᴍɪɴɢ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢꝛᴧᴍ ғᴏꝛ ʏᴏᴜꝛ ɢꝛᴏᴜᴘs ᴀɴᴅ ᴄʜᴧɴɴᴇʟ**
+**⌬ [【 shinu-ϻυsɪᴄ 】](https://t.me/shinu63635) ɪs ᴏɴᴇ ᴏғ ᴛʜᴇ ʙᴇsᴛ ᴍᴜsɪᴄ | ᴠɪᴅᴇᴏ sᴛꝛᴇᴀᴍɪɴɢ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢꝛᴧᴍ ғᴏꝛ ʏᴏᴜꝛ ɢꝛᴏᴜᴘs ᴀɴᴅ ᴄʜᴧɴɴᴇʟ**
 ```\n⌬ ʙᴇsᴛ ғᴇᴀsɪʙɪʟɪᴛʏ ᴏɴ ᴛᴏᴘ  ?```
 
 **✦ ʙᴇsᴛ sᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ
@@ -481,7 +481,7 @@ HELP_C = """```
 
 ᴀʟʟ ᴛʜᴇ ғᴇᴀᴛᴜʀᴇs ᴀʀᴇ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ
 
-⌬ ᴍᴏʀᴇ ɪɴғᴏ. [ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ](https://t.me/Ur_rishu_143)**"""
+⌬ ᴍᴏʀᴇ ɪɴғᴏ. [ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ](https://t.me/shinu63635)**"""
 
 HELP_X = """```
     【 ʀɪsʜυ-ϻυsɪᴄ 】 ᴍᴇɴᴜ```
@@ -500,7 +500,7 @@ HELP_X = """```
 
 ✦ /end - Cʟᴇᴀʀ , ᴇɴᴅ ᴀʟʟ sᴏɴɢ [ᴀᴜɪᴅᴏ & ᴠɪᴅᴇᴏ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ - [ʀɪsʜυ ʙσᴛ](https://t.me/Ur_rishu_143)**"""
+❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ - [ʀɪsʜυ ʙσᴛ](https://t.me/shinu63635)**"""
 
 # Callback query handler
 @bot.on_callback_query(filters.regex("RISHU_RAJPUT"))
@@ -557,7 +557,7 @@ async def back_to_home_menu(client, query):
                 ),
                 InlineKeyboardButton(
                     text="˹ ʀᴇᴘᴏ ˼",
-                    url="https://github.com/Rishubot/RishuMusic",  # Callback data for Owner button
+                    url="https://t.me/shinu63635",  # Callback data for Owner button
                 ),
             ]
         ]
@@ -937,8 +937,8 @@ async def change_stream(chat_id):
                 )
             ],
             [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/Ur_rishu_143"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/Vip_robotz/4")
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/shinu63635"),
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/shinu63635")
             ],
             [
                 InlineKeyboardButton(
@@ -1041,8 +1041,8 @@ async def stream_audio_or_video(client, message):
                 )
                     ],
                     [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/Ur_rishu_143"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/Vip_robotz/4")
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/shinu63635"),
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/shinu63635")
                     ],
                     [
                         InlineKeyboardButton(
@@ -1125,8 +1125,8 @@ async def stream_audio_or_video(client, message):
                 )
             ],
             [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/Ur_rishu_143"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/Vip_robotz/4")
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/shinu63635"),
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/shinu63635")
             ],
             [
                 InlineKeyboardButton(
@@ -1450,11 +1450,11 @@ async def git_repo_link(client, message):
         [
             InlineKeyboardButton(
                 text="˹ sᴜᴘᴘᴏꝛᴛ ˼",
-                url="https://t.me/Ur_Rishu_143"
+                url="https://t.me/huntermafiya"
             ),
             InlineKeyboardButton(
                 text="˹ sᴏᴜꝛᴄᴇ ˼",
-                url="https://github.com/rishubot/RishuMusic"
+                url="https://t.me/huntermafiya"
             ),
         ],
         [
