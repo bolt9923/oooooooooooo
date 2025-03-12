@@ -203,8 +203,8 @@ async def main():
         LOGGER.info(f"🚫 Assistant Error: {e}")
         sys.exit()
     try:
-        await app.join_chat("TFW_NETWORK")
-        await app.join_chat("TFW_UPDATES")
+        await app.join_chat("huntermafia")
+        await app.join_chat("huntermafia")
     except Exception:
         pass
     if LOG_GROUP_ID != 0:
@@ -388,7 +388,7 @@ async def start_message_private(client, message):
 » ✦ ʙєsᴛ ғєᴧᴛυꝛє ʙσᴛ ση ᴛєʟєɢꝛᴧϻ 
 » ✦ ᴧᴅᴅ ϻє ɢꝛσυᴘ ᴛσ sєє ϻʏ ᴘσᴡєʀ
 •──────────────────────•
-❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ  :-  [ʀɪsʜυ ʙσᴛ ](t.me/Shinu653)❤️‍🔥
+❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ  :-  [demon ʙσᴛ ](https://t.me/+Z1KURmoPcT9lNjVl)❤️‍🔥
 •──────────────────────•**"""
 
         buttons = InlineKeyboardMarkup(
@@ -416,7 +416,7 @@ async def start_message_private(client, message):
                     ),
                     InlineKeyboardButton(
                         text="˹ ʀᴇᴘᴏ ˼",
-                        url="https://t.me/shinu63635",
+                        url="https://t.me/+Z1KURmoPcT9lNjVl",
                     ),
                 ]
             ]
@@ -447,8 +447,8 @@ CBUTTON = InlineKeyboardMarkup(
             InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/huntermafiya")
         ],
         [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/shinu63635"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/shinu63635")
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl"),
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl")
         ],
         [
             InlineKeyboardButton("↺ ʙᴧᴄᴋ ↻", callback_data="back_to_home")
@@ -469,7 +469,7 @@ ABUTTON = InlineKeyboardMarkup(
 HELP_C = """```
 ⌬ ๏ ʟᴇᴛ's ɪɴᴛʀᴏᴅᴜᴄᴇ ᴍᴜsɪᴄ ʙᴏᴛ```
 
-**⌬ [【 shinu-ϻυsɪᴄ 】](https://t.me/shinu63635) ɪs ᴏɴᴇ ᴏғ ᴛʜᴇ ʙᴇsᴛ ᴍᴜsɪᴄ | ᴠɪᴅᴇᴏ sᴛꝛᴇᴀᴍɪɴɢ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢꝛᴧᴍ ғᴏꝛ ʏᴏᴜꝛ ɢꝛᴏᴜᴘs ᴀɴᴅ ᴄʜᴧɴɴᴇʟ**
+**⌬ [【 demon-ϻυsɪᴄ 】](https://t.me/+Z1KURmoPcT9lNjVl) ɪs ᴏɴᴇ ᴏғ ᴛʜᴇ ʙᴇsᴛ ᴍᴜsɪᴄ | ᴠɪᴅᴇᴏ sᴛꝛᴇᴀᴍɪɴɢ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢꝛᴧᴍ ғᴏꝛ ʏᴏᴜꝛ ɢꝛᴏᴜᴘs ᴀɴᴅ ᴄʜᴧɴɴᴇʟ**
 ```\n⌬ ʙᴇsᴛ ғᴇᴀsɪʙɪʟɪᴛʏ ᴏɴ ᴛᴏᴘ  ?```
 
 **✦ ʙᴇsᴛ sᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ
@@ -481,7 +481,7 @@ HELP_C = """```
 
 ᴀʟʟ ᴛʜᴇ ғᴇᴀᴛᴜʀᴇs ᴀʀᴇ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ
 
-⌬ ᴍᴏʀᴇ ɪɴғᴏ. [ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ](https://t.me/shinu63635)**"""
+⌬ ᴍᴏʀᴇ ɪɴғᴏ. [ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ](https://t.me/+Z1KURmoPcT9lNjVl)**"""
 
 HELP_X = """```
     【 ʀɪsʜυ-ϻυsɪᴄ 】 ᴍᴇɴᴜ```
@@ -500,7 +500,7 @@ HELP_X = """```
 
 ✦ /end - Cʟᴇᴀʀ , ᴇɴᴅ ᴀʟʟ sᴏɴɢ [ᴀᴜɪᴅᴏ & ᴠɪᴅᴇᴏ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ - [ʀɪsʜυ ʙσᴛ](https://t.me/shinu63635)**"""
+❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ - [demon ʙσᴛ](https://t.me/+Z1KURmoPcT9lNjVl)**"""
 
 # Callback query handler
 @bot.on_callback_query(filters.regex("RISHU_RAJPUT"))
@@ -530,7 +530,7 @@ async def delete_cb_query(client, query):
 @bot.on_callback_query(filters.regex("back_to_home"))
 async def back_to_home_menu(client, query):
     mention = query.from_user.mention
-    caption = f"""**┌────── ˹ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ˼──────•\n┆◍ ʜᴇʏ {mention},\n└──────────────────────•\n» ✦ ϻσsᴛ ᴘσᴡєꝛғυʟʟ ϻυsɪᴄ ʙσᴛ  \n» ✦ ʙєsᴛ ғєᴧᴛυꝛє ʙσᴛ ση ᴛєʟєɢꝛᴧϻ \n» ✦ ᴧᴅᴅ ϻє ɢꝛσυᴘ ᴛσ sєє ϻʏ ᴘσᴡєꝛ\n•──────────────────────•\n❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ  :-  [ʀɪsʜυ ʙσᴛ ](t.me/ur_rishu_143)❤️‍🔥\n•──────────────────────•**"""
+    caption = f"""**┌────── ˹ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ˼──────•\n┆◍ ʜᴇʏ {mention},\n└──────────────────────•\n» ✦ ϻσsᴛ ᴘσᴡєꝛғυʟʟ ϻυsɪᴄ ʙσᴛ  \n» ✦ ʙєsᴛ ғєᴧᴛυꝛє ʙσᴛ ση ᴛєʟєɢꝛᴧϻ \n» ✦ ᴧᴅᴅ ϻє ɢꝛσυᴘ ᴛσ sєє ϻʏ ᴘσᴡєꝛ\n•──────────────────────•\n❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ  :-  [demon ʙσᴛ ](https://t.me/+Z1KURmoPcT9lNjVl)❤️‍🔥\n•──────────────────────•**"""
 
     buttons = InlineKeyboardMarkup(
         inline_keyboard=[
@@ -557,7 +557,7 @@ async def back_to_home_menu(client, query):
                 ),
                 InlineKeyboardButton(
                     text="˹ ʀᴇᴘᴏ ˼",
-                    url="https://t.me/shinu63635",  # Callback data for Owner button
+                    url="https://t.me/+Z1KURmoPcT9lNjVl",  # Callback data for Owner button
                 ),
             ]
         ]
@@ -927,7 +927,7 @@ async def change_stream(chat_id):
 
     await call.play(chat_id, stream_media, config=call_config)
     await add_active_media_chat(chat_id, stream_type)
-    caption = f"""```\n🔊<b>【 ʀɪsʜυ-ϻυsɪᴄ 】```\n\n<b>❍ ᴛɪᴛʟє ➥</b> {title}\n<b>❍ ᴛɪϻє ➥</b> {duration} ᴍɪɴᴜᴛᴇs\n<b>❍ ʙʏ ➥</b> {requested_by}```\nᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ ˹ ʀɪsʜᴜ  ˼```"""
+    caption = f"""```\n🔊<b>【 demon-ϻυsɪᴄ 】```\n\n<b>❍ ᴛɪᴛʟє ➥</b> {title}\n<b>❍ ᴛɪϻє ➥</b> {duration} ᴍɪɴᴜᴛᴇs\n<b>❍ ʙʏ ➥</b> {requested_by}```\nᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ ˹ demon  ˼```"""
     buttons = InlineKeyboardMarkup(
         [
             [
@@ -937,8 +937,8 @@ async def change_stream(chat_id):
                 )
             ],
             [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/shinu63635"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/shinu63635")
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl"),
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl")
             ],
             [
                 InlineKeyboardButton(
@@ -1041,8 +1041,8 @@ async def stream_audio_or_video(client, message):
                 )
                     ],
                     [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/shinu63635"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/shinu63635")
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl"),
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl")
                     ],
                     [
                         InlineKeyboardButton(
@@ -1125,8 +1125,8 @@ async def stream_audio_or_video(client, message):
                 )
             ],
             [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/shinu63635"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/shinu63635")
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl"),
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl")
             ],
             [
                 InlineKeyboardButton(
@@ -1260,7 +1260,7 @@ async def stream_audio_or_video(client, message):
                 position = await add_to_queue(
                     chat_id, user, title, duration, stream_file, stream_type, thumbnail
                 )
-                caption = f"""```\n🔊<b>【 ʀɪsʜυ-ϻυsɪᴄ 】```\n\n<b>❍ ᴛɪᴛʟє ➥</b> {title}\n<b>❍ ᴛɪϻє ➥</b> {duration} ᴍɪɴᴜᴛᴇs\n<b>❍ ʙʏ ➥</b> {requested_by}```\nᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ ˹ ʀɪsʜᴜ ˼```"""
+                caption = f"""```\n🔊<b>【 demon-ϻυsɪᴄ 】```\n\n<b>❍ ᴛɪᴛʟє ➥</b> {title}\n<b>❍ ᴛɪϻє ➥</b> {duration} ᴍɪɴᴜᴛᴇs\n<b>❍ ʙʏ ➥</b> {requested_by}```\nᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ ˹ demon ˼```"""
                 await bot.send_photo(chat_id, thumbnail, caption, reply_markup=buttons)
                 await stream_logger(
                     chat_id, user, title, duration, stream_type, thumbnail
@@ -1454,7 +1454,7 @@ async def git_repo_link(client, message):
             ),
             InlineKeyboardButton(
                 text="˹ sᴏᴜꝛᴄᴇ ˼",
-                url="https://t.me/huntermafiya"
+                url="https://t.me/+Z1KURmoPcT9lNjVl"
             ),
         ],
         [
@@ -1526,7 +1526,7 @@ async def check_bot_stats(client, message):
     except:
         pass
     photo = START_IMAGE_URL
-    caption = "**【 ʀɪsʜυ-ϻυsɪᴄ 】༗**"
+    caption = "**【 demon-ϻυsɪᴄ 】༗**"
     buttons = InlineKeyboardMarkup(
         [
             [
