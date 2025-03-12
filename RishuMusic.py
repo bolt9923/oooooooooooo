@@ -85,7 +85,7 @@ STRING_SESSION = getenv("STRING_SESSION", None)
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority")
 OWNER_ID = int(getenv("OWNER_ID", "5738579437"))
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID","-1001992970818"))
-START_IMAGE_URL = getenv("START_IMAGE_URL","https://envs.sh/SHM.jpg")
+START_IMAGE_URL = getenv("START_IMAGE_URL","https://envs.sh/WUZ.jpg")
 
 
 # Memory Database
