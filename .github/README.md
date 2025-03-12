@@ -39,7 +39,7 @@
 <details>
   <summary>Click here to heruko</summary>
   <br>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/RishuBot/RishuMusic">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/bolt9923/SN_MUSIC">
       <img src="https://img.shields.io/badge/Deploy_to_Heroku-red?style=for-the-badge&logo=heroku&logoColor=green" alt="Deploy to Heroku">
   </a>
 </details>
