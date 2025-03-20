@@ -85,7 +85,7 @@ STRING_SESSION = getenv("STRING_SESSION", None)
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority")
 OWNER_ID = int(getenv("OWNER_ID", "5738579437"))
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID","-1001992970818"))
-START_IMAGE_URL = getenv("START_IMAGE_URL","https://i.imghippo.com/files/vA7972cM.jpg")
+START_IMAGE_URL = getenv("START_IMAGE_URL","https://files.catbox.moe/nziw64.jpg")
 
 
 # Memory Database
@@ -388,7 +388,7 @@ async def start_message_private(client, message):
 » ✦ ʙєsᴛ ғєᴧᴛυꝛє ʙσᴛ ση ᴛєʟєɢꝛᴧϻ 
 » ✦ ᴧᴅᴅ ϻє ɢꝛσυᴘ ᴛσ sєє ϻʏ ᴘσᴡєʀ
 •──────────────────────•
-❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ  :-  [demon ʙσᴛ ](https://t.me/+Z1KURmoPcT9lNjVl)❤️‍🔥
+❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ  :-  [kriti ʙσᴛ ](https://t.me/ll_HEARTLESS_MUSIC_II)❤️‍🔥
 •──────────────────────•**"""
 
         buttons = InlineKeyboardMarkup(
@@ -416,7 +416,7 @@ async def start_message_private(client, message):
                     ),
                     InlineKeyboardButton(
                         text="˹ ʀᴇᴘᴏ ˼",
-                        url="https://t.me/+Z1KURmoPcT9lNjVl",
+                        url="https://t.me/ll_HEARTLESS_MUSIC_II",
                     ),
                 ]
             ]
@@ -444,11 +444,11 @@ async def start_message_private(client, message):
 CBUTTON = InlineKeyboardMarkup(
     inline_keyboard=[
         [
-            InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/huntermafiya")
+            InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ ˼", url="https://t.me/ll_HEARTLESS_MUSIC_II")
         ],
         [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl")
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/ll_HEARTLESS_MUSIC_II"),
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/ll_HEARTLESS_MUSIC_II")
         ],
         [
             InlineKeyboardButton("↺ ʙᴧᴄᴋ ↻", callback_data="back_to_home")
@@ -481,7 +481,7 @@ HELP_C = """```
 
 ᴀʟʟ ᴛʜᴇ ғᴇᴀᴛᴜʀᴇs ᴀʀᴇ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ
 
-⌬ ᴍᴏʀᴇ ɪɴғᴏ. [ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ](https://t.me/+Z1KURmoPcT9lNjVl)**"""
+⌬ ᴍᴏʀᴇ ɪɴғᴏ. [ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ](https://t.me/ll_HEARTLESS_MUSIC_II)**"""
 
 HELP_X = """```
     【 ʀɪsʜυ-ϻυsɪᴄ 】 ᴍᴇɴᴜ```
@@ -500,7 +500,7 @@ HELP_X = """```
 
 ✦ /end - Cʟᴇᴀʀ , ᴇɴᴅ ᴀʟʟ sᴏɴɢ [ᴀᴜɪᴅᴏ & ᴠɪᴅᴇᴏ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ - [demon ʙσᴛ](https://t.me/+Z1KURmoPcT9lNjVl)**"""
+❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ - [demon ʙσᴛ](https://t.me/ll_HEARTLESS_MUSIC_II)**"""
 
 # Callback query handler
 @bot.on_callback_query(filters.regex("RISHU_RAJPUT"))
@@ -557,7 +557,7 @@ async def back_to_home_menu(client, query):
                 ),
                 InlineKeyboardButton(
                     text="˹ ʀᴇᴘᴏ ˼",
-                    url="https://t.me/+Z1KURmoPcT9lNjVl",  # Callback data for Owner button
+                    url="https://t.me/ll_HEARTLESS_MUSIC_II",  # Callback data for Owner button
                 ),
             ]
         ]
@@ -927,7 +927,7 @@ async def change_stream(chat_id):
 
     await call.play(chat_id, stream_media, config=call_config)
     await add_active_media_chat(chat_id, stream_type)
-    caption = f"""```\n🔊<b>【 demon-ϻυsɪᴄ 】```\n\n<b>❍ ᴛɪᴛʟє ➥</b> {title}\n<b>❍ ᴛɪϻє ➥</b> {duration} ᴍɪɴᴜᴛᴇs\n<b>❍ ʙʏ ➥</b> {requested_by}```\nᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ ˹ demon  ˼```"""
+    caption = f"""```\n🔊<b>【 kriti-ϻυsɪᴄ 】```\n\n<b>❍ ᴛɪᴛʟє ➥</b> {title}\n<b>❍ ᴛɪϻє ➥</b> {duration} ᴍɪɴᴜᴛᴇs\n<b>❍ ʙʏ ➥</b> {requested_by}```\nᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ ˹ Kriti  ˼```"""
     buttons = InlineKeyboardMarkup(
         [
             [
@@ -937,8 +937,8 @@ async def change_stream(chat_id):
                 )
             ],
             [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl")
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/ll_HEARTLESS_MUSIC_II"),
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/ll_HEARTLESS_MUSIC_II")
             ],
             [
                 InlineKeyboardButton(
@@ -1041,8 +1041,8 @@ async def stream_audio_or_video(client, message):
                 )
                     ],
                     [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl")
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/ll_HEARTLESS_MUSIC_II"),
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/ll_HEARTLESS_MUSIC_II")
                     ],
                     [
                         InlineKeyboardButton(
@@ -1125,8 +1125,8 @@ async def stream_audio_or_video(client, message):
                 )
             ],
             [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/+Z1KURmoPcT9lNjVl")
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/ll_HEARTLESS_MUSIC_II"),
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/ll_HEARTLESS_MUSIC_II")
             ],
             [
                 InlineKeyboardButton(
@@ -1260,7 +1260,7 @@ async def stream_audio_or_video(client, message):
                 position = await add_to_queue(
                     chat_id, user, title, duration, stream_file, stream_type, thumbnail
                 )
-                caption = f"""```\n🔊<b>【 demon-ϻυsɪᴄ 】```\n\n<b>❍ ᴛɪᴛʟє ➥</b> {title}\n<b>❍ ᴛɪϻє ➥</b> {duration} ᴍɪɴᴜᴛᴇs\n<b>❍ ʙʏ ➥</b> {requested_by}```\nᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ ˹ demon ˼```"""
+                caption = f"""```\n🔊<b>【 kriti-ϻυsɪᴄ 】```\n\n<b>❍ ᴛɪᴛʟє ➥</b> {title}\n<b>❍ ᴛɪϻє ➥</b> {duration} ᴍɪɴᴜᴛᴇs\n<b>❍ ʙʏ ➥</b> {requested_by}```\nᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ ˹ kiriti ˼```"""
                 await bot.send_photo(chat_id, thumbnail, caption, reply_markup=buttons)
                 await stream_logger(
                     chat_id, user, title, duration, stream_type, thumbnail
@@ -1450,11 +1450,11 @@ async def git_repo_link(client, message):
         [
             InlineKeyboardButton(
                 text="˹ sᴜᴘᴘᴏꝛᴛ ˼",
-                url="https://t.me/huntermafiya"
+                url="https://t.me/ll_HEARTLESS_MUSIC_II"
             ),
             InlineKeyboardButton(
                 text="˹ sᴏᴜꝛᴄᴇ ˼",
-                url="https://t.me/+Z1KURmoPcT9lNjVl"
+                url="https://t.me/ll_HEARTLESS_MUSIC_II"
             ),
         ],
         [
@@ -1565,7 +1565,7 @@ async def check_total_stats(client, query):
         video_chats = len(ACTIVE_VIDEO_CHATS)
         
         return await query.answer(
-            f"""⏱️ 【 ʀɪsʜυ-ϻυsɪᴄ 】
+            f"""⏱️ 【 kriti-ϻυsɪᴄ 】
 ☛ {uptime}
 
 🔴 Served Chats: {served_chats}
